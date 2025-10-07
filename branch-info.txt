@@ -7,10 +7,19 @@ Branches in this repo (with details):
     cdc3710 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T17:08:00Z | Bump actions/checkout from 3 to 5
     4b0e4ed | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:07:23Z | Auto-update branch-info.txt
     a758400 | Author: Victor Nwokoye <177438840+theowlvic@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T13:07:12-04:00 | Initial commit
-- main
+- lab7
   SHA: 8a074ca5f0e6c5cb197e7fd8c2cd33144fed88ba
   Commits: 4
   Recent commits:
+    8a074ca | Author: Victor <theowlvic@users.noreply.github.com> | Committer: Victor <theowlvic@users.noreply.github.com> | Date: 2025-10-07T20:41:14Z | Created tests for recognizer_result.py, encrypt.py and anonymizer_engine.py to Mock test and also test for edge cases
+    978c808 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:08:10Z | Auto-update branch-info.txt
+    4b0e4ed | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:07:23Z | Auto-update branch-info.txt
+    a758400 | Author: Victor Nwokoye <177438840+theowlvic@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T13:07:12-04:00 | Initial commit
+- main
+  SHA: f054df9b531017d79d6a8b765859186dc13a77db
+  Commits: 5
+  Recent commits:
+    f054df9 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T20:43:28Z | Auto-update branch-info.txt
     8a074ca | Author: Victor <theowlvic@users.noreply.github.com> | Committer: Victor <theowlvic@users.noreply.github.com> | Date: 2025-10-07T20:41:14Z | Created tests for recognizer_result.py, encrypt.py and anonymizer_engine.py to Mock test and also test for edge cases
     978c808 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:08:10Z | Auto-update branch-info.txt
     4b0e4ed | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:07:23Z | Auto-update branch-info.txt
