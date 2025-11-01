@@ -1,5 +1,14 @@
 Branches in this repo (with details):
 
+- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
+  SHA: 9acdabe6d24c7f07c2188a8530aafdf2599aac73
+  Commits: 8
+  Recent commits:
+    9acdabe | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-01T04:18:19Z | Bump python in /presidio-anonymizer
+    8a96790 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T20:50:38Z | Auto-update branch-info.txt
+    71babd2 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T20:49:58Z | Auto-update branch-info.txt
+    f054df9 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T20:43:28Z | Auto-update branch-info.txt
+    8a074ca | Author: Victor <theowlvic@users.noreply.github.com> | Committer: Victor <theowlvic@users.noreply.github.com> | Date: 2025-10-07T20:41:14Z | Created tests for recognizer_result.py, encrypt.py and anonymizer_engine.py to Mock test and also test for edge cases
 - dependabot/github_actions/actions/checkout-5
   SHA: cdc3710018e48484ecf94d94d0ae5ac3e2dfe097
   Commits: 3
@@ -17,11 +26,11 @@ Branches in this repo (with details):
     4b0e4ed | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:07:23Z | Auto-update branch-info.txt
     a758400 | Author: Victor Nwokoye <177438840+theowlvic@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T13:07:12-04:00 | Initial commit
 - main
-  SHA: 71babd2c0135c189e54b112075b41a6d8df7920d
-  Commits: 6
+  SHA: 8a9679039877638b664541ba86f764703f86ffa7
+  Commits: 7
   Recent commits:
+    8a96790 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T20:50:38Z | Auto-update branch-info.txt
     71babd2 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T20:49:58Z | Auto-update branch-info.txt
     f054df9 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T20:43:28Z | Auto-update branch-info.txt
     8a074ca | Author: Victor <theowlvic@users.noreply.github.com> | Committer: Victor <theowlvic@users.noreply.github.com> | Date: 2025-10-07T20:41:14Z | Created tests for recognizer_result.py, encrypt.py and anonymizer_engine.py to Mock test and also test for edge cases
     978c808 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:08:10Z | Auto-update branch-info.txt
-    4b0e4ed | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T17:07:23Z | Auto-update branch-info.txt
